@@ -18,3 +18,8 @@ Minimizes or maximises the current application window in that particular directi
 <kbd>Windows</kbd> + <kbd> V </kbd>
 
 Opens up a window consisting of recent clipboard collection
+
+#
+<kbd>Alt</kbd> + <kbd> Left arrow key </kbd>
+
+In a Browser (or any other application), goes back to the previous page (/ tree in your files)
