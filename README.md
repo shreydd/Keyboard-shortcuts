@@ -28,3 +28,15 @@ In a Browser (or any other application), goes back to the previous page (/ tree 
 <kbd> Ctrl</kbd> + <kbd>O</kbd>
 
 On your browser, if you need to open up a file from a folder ( maybe to upload something ) you can use this to open up the file explorer
+
+#
+<kbd>Windows key</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>
+
+To start screen recording ( have to enable microphone if you need it to take audio input ) 
+Do note that this is not available to record home screen and file explorer
+
+<kbd>Windows key</kbd> + <kbd> G</kbd>
+
+This will open up all the recording setting, previous recordings etc
+
+#
