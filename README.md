@@ -40,3 +40,6 @@ Do note that this is not available to record home screen and file explorer
 This will open up all the recording setting, previous recordings etc
 
 #
+Search "Character Map" in the start menu to get symbols and other characters 
+
+#
