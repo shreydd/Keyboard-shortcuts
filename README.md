@@ -47,3 +47,12 @@ Search "Character Map" in the start menu to get symbols and other characters
 
 Reloads closed tabs 💙
 #
+<kbd>Ctrl</kbd> + <kbd>=</kbd>
+
+In MS Word, this adds a subscript
+#
+
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> + </kbd>
+
+In MS word, it adds a superscript
+#
