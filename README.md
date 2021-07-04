@@ -55,4 +55,27 @@ In MS Word, this adds a subscript
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> + </kbd>
 
 In MS word, it adds a superscript
-#
+# On VS Code:
+<kbd>Ctrl</kbd> + <kbd>`</kbd>
+
+Opens terminal
+
+<kbd>Ctrl</kbd> + <kbd> B</kbd>
+
+Shows file explorer on the side
+
+<kbd>Ctrl</kbd> + <kbd>P</kbd>
+
+Search files directly in the current directory
+
+Use :11 to jump to line 11
+
+Use @html to go to element
+
+<kbd> Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> P</kbd>
+
+To open command palette
+
+<kbd>Alt</kbd> + <kbd>Z</kbd>
+
+To wrap your lines ( suppose your screen is shrinked you would get a scroll bar to look through, instead use this )
