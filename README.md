@@ -55,6 +55,11 @@ In MS Word, this adds a subscript
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> + </kbd>
 
 In MS word, it adds a superscript
+#
+<kbd>windows key</kbd> + <kbd> ; </kbd>
+
+Opens up the emoji panael
+
 # On VS Code:
 <kbd>Ctrl</kbd> + <kbd>`</kbd>
 
