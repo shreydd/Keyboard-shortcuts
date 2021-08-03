@@ -84,3 +84,7 @@ To open command palette
 <kbd>Alt</kbd> + <kbd>Z</kbd>
 
 To wrap your lines ( suppose your screen is shrinked you would get a scroll bar to look through, instead use this )
+
+<kbd> Alt </kbd> + <kbd> Shift </kbd> + <kbd> F </kbd>
+
+To format your messed up (active file) code
