@@ -1,4 +1,4 @@
-# Keyboard-shortcuts for windows
+# Keyboard shortcuts for windows
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Side arrow keys</kbd>
 
