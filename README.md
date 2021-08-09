@@ -59,7 +59,7 @@ In MS word, it adds a superscript
 #
 <kbd>windows key</kbd> + <kbd> ; </kbd>
 
-Opens up the emoji panael
+Opens up the emoji board
 
 # On VS Code:
 <kbd>Ctrl</kbd> + <kbd>`</kbd>
