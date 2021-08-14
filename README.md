@@ -89,5 +89,3 @@ To wrap your lines ( suppose your screen is shrinked you would get a scroll bar 
 <kbd> Alt </kbd> + <kbd> Shift </kbd> + <kbd> F </kbd>
 
 To format your messed up (active file) code
-
-#
