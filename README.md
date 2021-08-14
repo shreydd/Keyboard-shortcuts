@@ -4,7 +4,6 @@
 
 Selects continuous words till it is interreupted with symbols (or any other things that are not of same type like spaces or commas etc)
 
-
 <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Up/down arrow keys</kbd>
 
 Can shift a selected line up or downward direction
