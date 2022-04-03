@@ -61,6 +61,10 @@ In MS word, it adds a superscript
 
 Opens up the emoji board
 
+<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>4</kbd>
+
+Enters ₹ (rupee) symbol
+
 # On VS Code:
 <kbd>Ctrl</kbd> + <kbd>`</kbd>
 
