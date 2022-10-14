@@ -93,3 +93,13 @@ To wrap your lines ( suppose your screen is shrinked you would get a scroll bar 
 <kbd> Alt </kbd> + <kbd> Shift </kbd> + <kbd> F </kbd>
 
 To format your messed up (active file) code
+
+<kbd> Ctrl </kbd> + <kbd> G </kbd>
+
+Enter the line number and column number you want to jump to ex: 60,2
+
+<kbd> Alt </kbd> + <kbd> back arrow or front arrow </kbd>
+
+Jump back and forth with previous line positions 
+
+https://stackoverflow.com/questions/35424367/how-can-i-navigate-back-to-the-last-cursor-position-in-visual-studio-code
