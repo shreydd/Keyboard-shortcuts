@@ -1,5 +1,9 @@
 # Keyboard shortcuts for windows
 
+<kbd>Win</kbd> + <kbd>k</kbd>
+
+Open Bluetooth tab
+
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Side arrow keys</kbd>
 
 Selects continuous words till it is interreupted with symbols (or any other things that are not of same type like spaces or commas etc)
